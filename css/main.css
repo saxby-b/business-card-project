@@ -7,15 +7,8 @@ body {
   background: url(../img/symphony.png) repeat;
   /* Background image from http://subtlepatterns.com/ */
   text-align: center;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   color: DimGray;
-}
-
-h1,
-h2,
-h3,
-h4 {
-
 }
 
 h1 {
